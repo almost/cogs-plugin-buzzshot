@@ -73,8 +73,13 @@
     "value": {"type": "string", "default": ""},
     "writableFromClient": true
   },
-    {
+  {
     "name": "Game Master Name",
+    "value": {"type": "string", "default": ""},
+    "writableFromClient": true
+  },
+  {
+    "name": "Room Name",
     "value": {"type": "string", "default": ""},
     "writableFromClient": true
   }
